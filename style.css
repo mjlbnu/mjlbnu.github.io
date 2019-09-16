@@ -465,10 +465,10 @@ p {
   }
 }
 
-@media screen and (min-height: 720px) {
+@media screen and (min-height: 480px) {
   .profile-card header {
-    width: auto;
-    height: auto;
+    width: 179px;
+    height: 280px;
     padding: 30px 20px;
     display: block;
     float: none;
