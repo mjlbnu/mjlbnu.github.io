@@ -467,8 +467,8 @@ p {
 
 @media screen and (min-height: 480px) {
   .profile-card header {
-    width: 179px;
-    height: 280px;
+    width: auto;
+    height: auto;
     padding: 30px 20px;
     display: block;
     float: none;
